@@ -1,6 +1,6 @@
 # แลปเกี่ยวกับการใช้งาน RFID 
 
-**Library ทีใช้**: RFID522
+**Library ทีใช้**: MFRC522 by GithubCommunity
 
 ## การใช้งาน
 คัดลอกโค้ด RFID.ino
